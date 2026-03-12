@@ -72,11 +72,11 @@ Together, these segments highlight where PrintPlus Studios should invest in loya
 
 - 5% (3 customers) in this segment purchased more recently than 60% of the customer base, 16% (9 customers) purchased more recently than 40% of customers, 37% (21 customers) purchased more recently than 20% of customers, and 43% (24 customers) purchased less recently than 80% of customers, placing them in the bottom 20% for recency. The need attention segment is characterised by a substantial share of customers whose last purchase occurred a significant time ago, indicating declining engagement and an elevated risk of churn.
 
-- They typically make around 2 purchases per year, indicating weak repeat-buying behaviour and inconsistent engagement
+- They typically make around 2 purchases per year, indicating weak repeat-buying behaviour and inconsistent engagement.
 
 - 4% (2 customers) purchase more frequently than 40% of the customer base, 70% (40 customers) purchase more frequently than 20% of customers, and 26% (15 customers)  purchase less frequently than 80% of customers, placing them in the bottom 20% for purchase frequency. The need attention segment is dominated by customers with low purchase frequency, indicating limited repeat-buying behaviour and weaker purchasing consistency.
 
-- They spend an average of £23.65 and collectively contribute ≈8% of total revenue, highlighting their limited financial impact on the business.
+- They spend an average of $23.65 and collectively contribute ≈8% of total revenue, highlighting their limited financial impact on the business.
 
 - 7% (4 customers) in this segment spend more than 40% of the customer base, 32% (18 customers) spend more than 20% of customers, and 61% (35 customers) spend less than 80% of customers, placing them in the bottom 20% for total spending. The need attention segment is predominantly composed of low-spending customers with limited revenue contribution.
 
@@ -94,7 +94,7 @@ Together, these segments highlight where PrintPlus Studios should invest in loya
 
 - 100% (13 customers) in this segment purchase less frequently than 80% of the customer base, placing them in the bottom 20% for purchase frequency. The at risk segment reflects consistently low repeat-buying behaviour, signalling weak loyalty and limited interaction with the business.
 
-- They spend an average of £10.67 and collectively contribute only ≈0.8% of total revenue, underscoring their very low overall financial impact on the business.
+- They spend an average of $10.67 and collectively contribute only ≈0.8% of total revenue, underscoring their very low overall financial impact on the business.
 
 - 100% (13 customers) in this segment spend less than 80% of the customer base, placing them in the bottom 20% for total spending. The at risk segment contributes the lowest revenue levels in the dataset.
 
