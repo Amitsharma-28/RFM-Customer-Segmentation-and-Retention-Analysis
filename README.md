@@ -8,11 +8,10 @@ An Excel-based customer segmentation project applying an RFM (Recency, Frequency
 ## 📌 Objective
  
 PrintPlus Studios generates substantial data from daily transactions and customer interactions, but much of this information had historically been underutilised. This project addresses that gap by answering three key business questions:
- 
+
 1. Who are PrintPlus Studios' **best customers**?
 2. Which customers should be targeted with a **retention campaign**?
 3. Which customers can PrintPlus Studios **safely exclude** from paid campaigns?
-All the Excel formulas used for the analysis can be found [here](https://docs.google.com/document/d/11wYtmhPXSS-ClJ5QhHnWWfoReHPZVQd5/edit?usp=sharing&ouid=102165638531054537510&rtpof=true&sd=true).
 ---
  
 ## 📂 Dataset
@@ -41,7 +40,9 @@ Prior to analysis, the following checks were conducted:
 ## 🧮 Methodology
  
 Customers were scored across three RFM dimensions on a scale of **1–5**, producing a combined score out of 15. Scores were assigned using `PERCENTILE.INC`, and customers were grouped into five segments using `IFS` logic based on their total RFM score.
- 
+
+> All Excel formulas used for the analysis can be found [here](https://docs.google.com/document/d/11wYtmhPXSS-ClJ5QhHnWWfoReHPZVQd5/edit?usp=sharing&ouid=102165638531054537510&rtpof=true&sd=true).
+
 | Dimension | Description |
 |---|---|
 | **Recency (R)** | How recently the customer made a purchase |
@@ -55,7 +56,7 @@ Customers were scored across three RFM dimensions on a scale of **1–5**, produ
 | 🌱 Potential Loyal Customers | 7-9 / 15 |
 | ⚠️ Need Attention | 4–6 / 15 |
 | 🔴 At Risk | 3 / 15 |
- 
+
 ---
  
 ## 📊 Findings
