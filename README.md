@@ -12,7 +12,6 @@ PrintPlus Studios generates substantial data from daily transactions and custome
 1. Who are PrintPlus Studios' **best customers**?
 2. Which customers should be targeted with a **retention campaign**?
 3. Which customers can PrintPlus Studios **safely exclude** from paid campaigns?
-
 All the Excel formulas used for the analysis can be found [here](https://docs.google.com/document/d/11wYtmhPXSS-ClJ5QhHnWWfoReHPZVQd5/edit?usp=sharing&ouid=102165638531054537510&rtpof=true&sd=true).
 ---
  
